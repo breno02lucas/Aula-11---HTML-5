@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    float: left;
+    width: 100%;
+
+    /* Margem interna */
+    padding: 30px 0; /* 30px (para cima e baixo) e 0 para os lados */
+
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+main{
+    float: left;
+    width: 100%;
+
+    text-align: center;
+}
+
+main img{
+    width: 95%;
+}
